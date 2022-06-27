@@ -6,3 +6,10 @@ Elle sont ensuite extraite en CSV
 
 ## Traitement des données
 Puis traité et converti en JSON.
+
+
+## Envoyer sur Heroku
+
+```
+git push heroku main
+```
